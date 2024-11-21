@@ -1,0 +1,1 @@
+docker run --rm anthonyjhoiro/whalesay cowsay "Yo Antho ! J'ai réussi à faire mon premier Dockerfile !"
